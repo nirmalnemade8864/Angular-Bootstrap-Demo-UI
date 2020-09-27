@@ -1,0 +1,14 @@
+.container-fluid {
+    padding: 60px 50px;
+  }
+  .bg-grey {
+    background-color: #f6f6f6;
+  }
+  .logo-small {
+    color: red;
+    font-size: 70px;
+  }
+  .logo {
+    color: red;
+    font-size: 200px;
+  }
